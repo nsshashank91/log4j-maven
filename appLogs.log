@@ -1,0 +1,6 @@
+2022-01-16 16:53:32 INFO  LoggingMain:13 - Hello world
+2022-01-16 16:53:32 INFO  LoggingMain:14 - we are in logger info mode
+2022-01-16 16:54:16 INFO  LoggingMain:13 - Hello world
+2022-01-16 16:54:16 INFO  LoggingMain:14 - we are in logger info mode
+2022-01-16 16:54:24 INFO  LoggingMain:13 - Hello world
+2022-01-16 16:54:24 INFO  LoggingMain:14 - we are in logger info mode
